@@ -13,3 +13,6 @@ I finished by assigning the text value of each hour block's user input to what h
 
 Below is a screenshot of my live page as well as a link to the running application.
 
+https://codyregis6891.github.io/workday-scheduler/
+
+![workday-hourly-schedule-screenshot](./images/scheduler-screenshot.png)
