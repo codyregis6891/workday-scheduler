@@ -7,7 +7,7 @@
 
 ## Description
 
-This is a simple yet effective application that allows you to plan out your work day.  The user is able to add tasks or activities for the day in hourly intervals, in order to help them see what lies ahead each day.
+This is a simple yet effective application that allows you to plan out your work day.  The user is able to add tasks or activities for the day in hourly intervals, in order to help them see what lies ahead each day.  The app utilizes local storage in order to remember whatever the user has input, regardless if they have refreshed the page or closed the browser.
 
 ## Installation
 
