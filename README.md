@@ -1,27 +1,35 @@
 # Workday Scheduler
 
+## License
+
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-For this assignment I was tasked with creating a workday hourly timer.  I was given a style.css with some defined classes and id's to use as a starting point.
 
-I started by adding a row for each one hour time slot in the 9 - 5 workday.  I added 3 columns to each of these rows. These columns contain the time title, the user input description area, and the save button.
+## Description
 
-In javascript, I started by using the moment() function to add the current date at the bottom of the header.
+This is a simple yet effective application that allows you to plan out your work day.  The user is able to add tasks or activities for the day in hourly intervals, in order to help them see what lies ahead each day.
 
-After this was accomplished, I used an if else statement to color code each hour block based on the current time of day.  
+## Installation
 
-I added an on click function to the save button in order to save the user's inputed information to local storage. 
+1. Clone the Repo
+  ```sh
+  git@github.com:codyregis6891/workday-scheduler.git
+  ```
+2. View on your browser via localhost
+  ```sh
+  Right-click on index.html in VSCode, then click on "Open in Default Browser"
+  ```
+  
+## Live Application
 
-I finished by assigning the text value of each hour block's user input to what has been saved in local storage via the save button.  By doing this, the saved information will remain even when the page is refreshed.
-
-
-
-Below is a screenshot of my live page as well as a link to the running application.
+Below is a screenshot of the application as well as a link to the live app.
 
 https://codyregis6891.github.io/workday-scheduler/
 
 ![workday-hourly-schedule-screenshot](./images/scheduler-screenshot.png)
 
-## Questions?
+
+## Questions or Issues?
 
 * Email: codyregis6891@yahoo.com
+* https://github.com/codyregis6891/workday-scheduler/issues
